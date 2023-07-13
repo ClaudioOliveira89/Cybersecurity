@@ -4,8 +4,11 @@ Cyber security challenges - Desafios para Cibersegurança.
 O que irá precisar?
 
 um dos 3 linux 
+
 Kali Linux Xfce
+
 Kali Linux KDE
+
 Kali Linux Gnun
 
 ferramenta The Social-Engineer Toolkit (SET) Version: 8.0.3
