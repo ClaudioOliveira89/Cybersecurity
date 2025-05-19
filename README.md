@@ -1,11 +1,10 @@
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kalilinux&logoColor=25fafe)
+![Tails](https://img.shields.io/badge/Tails%20-black?&style=for-the-badge&logo=tails&logoColor=25fafe)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=25fafe)
+![XFCE](https://img.shields.io/badge/XFCE-black.svg?style=for-the-badge&logo=xfce&logoColor=25fafe)
+![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=microsoft&logoColor=25fafe)
+![TOR](https://img.shields.io/badge/tor-black.svg?style=for-the-badge&logo=tor-project&logoColor=25fafe)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-black?style=for-the-badge&logo=DuckDuckGo&logoColor=25fafe)
 
 
 ### Cyber Security Challenges
