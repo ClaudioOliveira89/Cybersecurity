@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=25fafe)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=25fafe)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=25fafe)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-0d1117.svg?style=for-the-badge&logo=assemblyscript&logoColor=25fafe)
 
 ---
 This repository was created for academic purposes to document my learning journey in Cybersecurity technologies and scripting languages. The focus is on mastering tools and systems such as Linux, Kali Linux, Tails OS, and Tor for privacy and security, as well as programming and scripting with Python, SQL, and Bash/Shell scripting.
